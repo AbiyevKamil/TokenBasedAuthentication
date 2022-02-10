@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "693e7882-c18a-4984-862c-8ac312df8b92": {
+      "ProjectGuid": "693e7882-c18a-4984-862c-8ac312df8b92",
+      "DisplayName": "TokenBasedAuthentication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

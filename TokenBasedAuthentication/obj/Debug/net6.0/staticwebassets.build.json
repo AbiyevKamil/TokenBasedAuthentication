@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Frweqz7oTEl2kjcwml7Bt9nmRrWqW3ajBDkn1nLmt3U=",
+  "Source": "TokenBasedAuthentication",
+  "BasePath": "_content/TokenBasedAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
